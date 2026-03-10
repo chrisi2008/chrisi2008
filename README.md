@@ -14,7 +14,7 @@ Currently learning the ropes of networking, infrastructure, and system administr
 
 - **Apprenticeship:** Fachinformatiker für Systemintegration (FISI)
 - **Languages:** Learning Python & C#
-- **Interests:** Networking, homelab, PC hardware, infrastructure
+- **Interests:** Homelabing, PC hardware, AI, Gaming, Photography, VR
 
 ---
 
