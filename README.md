@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Christian 👋
 
 IT apprentice (*Fachinformatiker Systemintegration*) based in the Karlsruhe area.  
