@@ -20,7 +20,7 @@ Currently learning the ropes of networking, infrastructure, and system administr
 
 ## 🧪 Homelab
 
-Running a small homelab at home with Proxmox, a NAS, and a dedicated network node.  
+Running a small homelab at home with Proxmox, a NAS, a TerminalServer(Win11) and a dedicated network node.  
 Always tinkering with self-hosted services and whatever breaks next.
 
 ---
