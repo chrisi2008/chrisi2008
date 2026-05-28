@@ -30,6 +30,7 @@ Always tinkering with self-hosted services and whatever breaks next.
 | Project | Description |
 |---------|-------------|
 | [winget-tool](https://github.com/chrisi2008/winget-tool) | Dark-themed GUI for the Windows Package Manager, built with Python & Tkinter |
+| [cirrus](https://github.com/chrisi2008/cirrus) | Vibecoded Weather App |
 
 ---
 
